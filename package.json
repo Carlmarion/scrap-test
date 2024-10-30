@@ -1,0 +1,22 @@
+{
+  "name": "scrap-test",
+  "version": "1.0.0",
+  "description": "scrapping test material for ebay feeding MongoDB database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Carlmarion/scrap-test.git"
+  },
+  "keywords": [
+    "scrap"
+  ],
+  "author": "Carl Marion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlmarion/scrap-test/issues"
+  },
+  "homepage": "https://github.com/Carlmarion/scrap-test#readme"
+}
